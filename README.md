@@ -12,7 +12,7 @@
 
 `npm install tms-koa --save`
 
-为了运行系统需要安装 MySQL 和 Redp m
+为了运行系统需要安装 MySQL 和 Redis
 
 # 测试
 
